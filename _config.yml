@@ -1,15 +1,14 @@
 # Site settings
-title: 
+author: Tiffany Leigh
+title: Tiffany Leigh
 header-img: img/home-bg.png
 email: tiffanyleigh.10@gmail.com
-copyright_name: pz0995
+copyright_name: Tiffany Leigh
 description: > # this means to ignore newlines until "baseurl:"
-  
+  web developer blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  pz0995
-learn_profile: pz0995
-email_username: tiffanyleigh.10@gmail.com
 
 # Build settings
 markdown: kramdown
